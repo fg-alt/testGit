@@ -18,8 +18,8 @@ public class MasterDetailsManagedBean {
 	@Email
 	private String email;
 
-	private String tata3;
-	
+	private String tata4;
+
 	private String tutu;
 
 	private String tata2;
