@@ -1,0 +1,7 @@
+Avant de lancer le test /tp11/src/test/java/com/societe/blog/MasterDetailsManagedBeanTest.java, lancer un jboss 6 via la commande
+
+./bin/run.sh
+
+Enlever le @Ignore sur la class de test et lancer le test, cela doit passer au vert.
+
+A vous maintenant d'écrire le test
