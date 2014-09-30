@@ -18,7 +18,7 @@ public class MasterDetailsManagedBean {
 	@Email
 	private String email;
 
-	private String tata3;
+	private String tata33;
 	
 	private String tutu;
 
